@@ -53,18 +53,6 @@ If referencing this repository or paper, please cite:
 
 ---
 
-## 🚀 Future Work — The SFT Research Series
-This paper is **Part 1** of the six-part *Spacefield Transformation* research program:
-
-1. **Cosmological Foundations** *(this work)*  
-2. **Baryogenesis** — Spontaneous leptogenesis from spacefield geometry  
-3. **Nucleosynthesis** — Revised light-element abundances in a fixed-mass universe  
-4. **Particle Masses** — Geometric origin of proton and neutrino masses  
-5. **Unified Field Dynamics** — The SFT super-equation coupling gravity and quantum fields  
-6. **Cosmic Genesis** — Non-singular origin of space and time from geometric transformation  
-
----
-
 ### 🧮 Baseline Parameters (2025 SFT)
 All numerical predictions in Paper 1 use the updated baseline constants:
 
